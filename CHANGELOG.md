@@ -5,7 +5,7 @@ What changed in each update, newest first.
 ## 2.1 (2026-10-25)
 - **Tabs** for Books, My Words and Stats.
 - **Sidebar** with all books, unread, reading, finished, plus your collections and series.
-- **Multi-select** (click, ⌘-click, ⇧-click, ⌘A) with batch actions: mark finished, mark unread, set series, add to or remove from collections, remove.
+- **Multi-select** with batch actions (mark finished or unread, set series, collections, remove).
 - **Collections:** create, rename and delete. They show up on the Kobo.
 - **Series editing**, optionally numbering books in the order shown.
 - **My Words:** words saved from the Kobo dictionary, with definitions from the Mac's dictionary (English) or `jdict` (Japanese). Export as CSV or as an Anki import file.
