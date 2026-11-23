@@ -2,6 +2,8 @@
 
 A Mac app for managing the books on a Kobo e-reader, without Calibre.
 
+![Kobo Shelf showing a Kobo's books in a cover grid](docs/screenshot.png)
+
 - Cover grid of everything on the Kobo, with reading progress
 - Drag in EPUBs (converted to kepub automatically), PDFs or comics
 - Remove books; the Kobo's database is backed up first
